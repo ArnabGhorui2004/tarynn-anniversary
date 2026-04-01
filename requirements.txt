@@ -1,4 +1,1 @@
-﻿streamlit
-git rm filename.txt
-git commit -m "Remove filename.txt from repository"
-git push origin main
+
